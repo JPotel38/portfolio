@@ -1,0 +1,35 @@
+a {
+    text-decoration: none;
+  }
+
+#score {
+
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+#rules {
+
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.btn {
+    font-size: 20px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+    padding: 12px 28px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: blue; /* Green */
+    color: white;
+  }
