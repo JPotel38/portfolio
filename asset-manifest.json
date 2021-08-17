@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.a96c852b.chunk.css",
-    "main.js": "/Portfolio/static/js/main.317c26b3.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.317c26b3.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.96a202df.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.96a202df.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.e8a0fcc9.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e8a0fcc9.js.map",
     "static/css/2.5f5f9133.chunk.css": "/Portfolio/static/css/2.5f5f9133.chunk.css",
@@ -11,13 +11,14 @@
     "index.html": "/Portfolio/index.html",
     "static/css/2.5f5f9133.chunk.css.map": "/Portfolio/static/css/2.5f5f9133.chunk.css.map",
     "static/css/main.a96c852b.chunk.css.map": "/Portfolio/static/css/main.a96c852b.chunk.css.map",
-    "static/js/2.a5621edd.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.a5621edd.chunk.js.LICENSE.txt"
+    "static/js/2.a5621edd.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.a5621edd.chunk.js.LICENSE.txt",
+    "static/media/KultureMania.3be5e2de.jpg": "/Portfolio/static/media/KultureMania.3be5e2de.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e8a0fcc9.js",
     "static/css/2.5f5f9133.chunk.css",
     "static/js/2.a5621edd.chunk.js",
     "static/css/main.a96c852b.chunk.css",
-    "static/js/main.317c26b3.chunk.js"
+    "static/js/main.96a202df.chunk.js"
   ]
 }
