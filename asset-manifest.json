@@ -1,24 +1,37 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.a96c852b.chunk.css",
-    "main.js": "/Portfolio/static/js/main.96a202df.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.96a202df.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.e8a0fcc9.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e8a0fcc9.js.map",
+    "main.css": "/Portfolio/static/css/main.a886e7a6.chunk.css",
+    "main.js": "/Portfolio/static/js/main.549db526.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.549db526.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.c74a019d.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.c74a019d.js.map",
     "static/css/2.5f5f9133.chunk.css": "/Portfolio/static/css/2.5f5f9133.chunk.css",
-    "static/js/2.a5621edd.chunk.js": "/Portfolio/static/js/2.a5621edd.chunk.js",
-    "static/js/2.a5621edd.chunk.js.map": "/Portfolio/static/js/2.a5621edd.chunk.js.map",
+    "static/js/2.03fd19d0.chunk.js": "/Portfolio/static/js/2.03fd19d0.chunk.js",
+    "static/js/2.03fd19d0.chunk.js.map": "/Portfolio/static/js/2.03fd19d0.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.5f5f9133.chunk.css.map": "/Portfolio/static/css/2.5f5f9133.chunk.css.map",
-    "static/css/main.a96c852b.chunk.css.map": "/Portfolio/static/css/main.a96c852b.chunk.css.map",
-    "static/js/2.a5621edd.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.a5621edd.chunk.js.LICENSE.txt",
-    "static/media/KultureMania.3be5e2de.jpg": "/Portfolio/static/media/KultureMania.3be5e2de.jpg"
+    "static/css/main.a886e7a6.chunk.css.map": "/Portfolio/static/css/main.a886e7a6.chunk.css.map",
+    "static/js/2.03fd19d0.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.03fd19d0.chunk.js.LICENSE.txt",
+    "static/media/404.13605a5c.png": "/Portfolio/static/media/404.13605a5c.png",
+    "static/media/Afev.e34819e0.jpg": "/Portfolio/static/media/Afev.e34819e0.jpg",
+    "static/media/Angular.1fd4bbed.svg": "/Portfolio/static/media/Angular.1fd4bbed.svg",
+    "static/media/Bikeshop.26e1a0e6.PNG": "/Portfolio/static/media/Bikeshop.26e1a0e6.PNG",
+    "static/media/BlackBoard.637b77d4.PNG": "/Portfolio/static/media/BlackBoard.637b77d4.PNG",
+    "static/media/Futuréel.4b05acde.jpg": "/Portfolio/static/media/Futuréel.4b05acde.jpg",
+    "static/media/KultureMania.3be5e2de.jpg": "/Portfolio/static/media/KultureMania.3be5e2de.jpg",
+    "static/media/Masques.e35f1549.png": "/Portfolio/static/media/Masques.e35f1549.png",
+    "static/media/Morningnews.91152843.png": "/Portfolio/static/media/Morningnews.91152843.png",
+    "static/media/Mymoviz.ccd973c4.PNG": "/Portfolio/static/media/Mymoviz.ccd973c4.PNG",
+    "static/media/NZ.3d009ae0.jpg": "/Portfolio/static/media/NZ.3d009ae0.jpg",
+    "static/media/Ticketac.3a0b4352.PNG": "/Portfolio/static/media/Ticketac.3a0b4352.PNG",
+    "static/media/Weatherapp.f40a92ad.PNG": "/Portfolio/static/media/Weatherapp.f40a92ad.PNG",
+    "static/media/photo.0a1889d8.jpg": "/Portfolio/static/media/photo.0a1889d8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8a0fcc9.js",
+    "static/js/runtime-main.c74a019d.js",
     "static/css/2.5f5f9133.chunk.css",
-    "static/js/2.a5621edd.chunk.js",
-    "static/css/main.a96c852b.chunk.css",
-    "static/js/main.96a202df.chunk.js"
+    "static/js/2.03fd19d0.chunk.js",
+    "static/css/main.a886e7a6.chunk.css",
+    "static/js/main.549db526.chunk.js"
   ]
 }
