@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
-Sitemap: http://www.jeremy-potel.fr/sitemap.xml
+Sitemap: https://jpotel38.github.io/Portfolio/

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> 
-<loc>http://www.jeremy-potel.fr/</loc>
+<loc>https://jpotel38.github.io/Portfolio/</loc>
 <priority>1</priority>
  </url>
-<url> <loc>http://www.jeremy-potel.fr/education/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/pro/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/perso/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/projets/</loc> </url>
+<url> <loc>https://jpotel38.github.io/education/</loc> </url>
+<url> <loc>https://jpotel38.github.io/pro/</loc> </url>
+<url> <loc>https://jpotel38.github.io/perso/</loc> </url>
+<url> <loc>https://jpotel38.github.io/projets/</loc> </url>
 <url> 
 <loc>http://www.jeremy-potel.fr/game/</loc>
  <changefreq>monthly</changefreq>
  </url>
-<url> <loc>http://www.jeremy-potel.fr/masques/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/morningnews/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/ticketac/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/blackboard/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/mymoviz/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/weatherapp/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/bikeshop/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/pendu/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/pingpong/</loc> </url>
-<url> <loc>http://www.jeremy-potel.fr/404/</loc> </url>
+<url> <loc>https://jpotel38.github.io/masques/</loc> </url>
+<url> <loc>https://jpotel38.github.io/morningnews/</loc> </url>
+<url> <loc>https://jpotel38.github.io/ticketac/</loc> </url>
+<url> <loc>https://jpotel38.github.io/blackboard/</loc> </url>
+<url> <loc>https://jpotel38.github.io/mymoviz/</loc> </url>
+<url> <loc>https://jpotel38.github.io/weatherapp/</loc> </url>
+<url> <loc>https://jpotel38.github.io/bikeshop/</loc> </url>
+<url> <loc>https://jpotel38.github.io/pendu/</loc> </url>
+<url> <loc>https://jpotel38.github.io/pingpong/</loc> </url>
+<url> <loc>https://jpotel38.github.io/404/</loc> </url>
 </urlset>
